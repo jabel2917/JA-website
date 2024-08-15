@@ -147,5 +147,3 @@ work:
 ## About Me
 
 Hi I'm Jack! Is this working?
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/QSmith_CV_2024.pdf" "newtab" >}}CV{{< /staticref >}}
