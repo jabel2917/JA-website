@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Jack Abel"
 
 # Site footer
 footer:
   copyright:
-    notice: '© 2024 Jack Abel'
+    notice: '© {year} Jack Abel'
     license:
       enable: true
       allow_derivatives: false
