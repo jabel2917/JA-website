@@ -60,9 +60,9 @@ education:
 first_name: Shiung Wu
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Fish
+- Fish related things 
+- Option 3
 languages:
 - name: English
   percent: 100
@@ -71,10 +71,9 @@ languages:
 - name: Portuguese
   percent: 25
 last_name: Chien
-name_pronunciation: Chien Shiung Wu
 organizations:
-- name: OpenAI
-  url: https://openai.com/
+- name: University of Minnesota Twin Cities 
+  url: https://twin-cities.umn.edu/
 profiles:
 - icon: at-symbol
   label: E-mail Me
