@@ -116,7 +116,7 @@ skills:
     percent: 80
   name: Hobbies
 status:
-  icon: ☕️
+  icon: 
 superuser: true
 title: Jack Abel
 work:
