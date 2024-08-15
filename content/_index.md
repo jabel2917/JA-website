@@ -7,7 +7,7 @@ sections:
   content:
     button:
       text: Download CV
-      url: uploads/resume.pdf
+      url: uploads/JA_CV_2024.pdf
     text: ""
     username: admin
   design:
