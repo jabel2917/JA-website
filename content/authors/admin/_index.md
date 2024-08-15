@@ -63,13 +63,6 @@ interests:
 - Fish
 - Fish related things 
 - Option 3
-languages:
-- name: English
-  percent: 100
-- name: Chinese
-  percent: 75
-- name: Portuguese
-  percent: 25
 last_name: Chien
 organizations:
 - name: University of Minnesota Twin Cities 
