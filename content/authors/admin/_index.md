@@ -26,7 +26,7 @@ awards:
   title: Object-Oriented Programming in R
   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 education:
-- area: PhD Artificial Intelligence
+- area: Pursuing B.S. in Ecology, Evolution, & Behavior
   button:
     text: Read Thesis
     url: https://example.com
