@@ -26,7 +26,7 @@ awards:
   title: Object-Oriented Programming in R
   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 education:
-- area: Pursuing a B.S. in Ecology, Evolution, & Behavior
+- area: Pursuing a B.S. in Ecology, Evolution, & Behavior and a Minor in Marine Biology
   button: 
     text: EEB Department
     url: https://cbs.umn.edu/eeb
@@ -35,17 +35,14 @@ education:
   institution: University of Minnesota Twin Cities
   summary: |
     Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by Dr. Gretchen Hansen. Planning to present at Minnesota AFS Conference in 2/25.
-- area: MEng Artificial Intelligence
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
+- area: High School Diploma
+  date_end: "2022-5-22"
+  date_start: "2018-08-26"
+  institution: Liberty High School
   summary: |
-    GPA: 3.8/4.0
+    GPA: 4.41
+    Graduated summa cum laude May 2022
 
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 - area: BSc Artificial Intelligence
   date_end: "2020-12-31"
   date_start: "2016-01-01"
