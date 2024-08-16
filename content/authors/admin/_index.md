@@ -41,9 +41,9 @@ education:
 - area: High School Diploma
   date_end: "2022-5-22"
   date_start: "2018-08-26"
-  institution: Liberty High School
+  institution: Massachusetts Institute of Technology
   summary: |
-    GPA: 4.41
+    GPA: 4.41/4.0
 
     Courses included:
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
