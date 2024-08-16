@@ -146,4 +146,4 @@ work:
 
 ## About Me
 
-Hi I'm Jack! Is this working?
+Hello! My Name is Jack, and I'm testing to see if I can update this website correctly on my own.
