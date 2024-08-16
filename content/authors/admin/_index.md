@@ -28,13 +28,13 @@ awards:
 education:
 - area: Pursuing a B.S. in Ecology, Evolution, & Behavior
   button:
-    text:
+    text: EEB Department
     url: https://cbs.umn.edu/eeb
   date_end: 
   date_start: "2022-09-06"
   institution: University of Minnesota Twin Cities
   summary: |
-    Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by [Dr. Gretchen Hansen](https://example.com). Planning to present at Minnesota AFS Conference in 2/25.
 - area: MEng Artificial Intelligence
   date_end: "2020-12-31"
   date_start: "2016-01-01"
