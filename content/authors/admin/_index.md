@@ -43,6 +43,7 @@ education:
   date_start: "2018-08-26"
   institution: Liberty High School
   summary: |
+   
     GPA: 4.41
 
     Graduated summa cum laude
