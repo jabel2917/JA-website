@@ -27,7 +27,7 @@ awards:
   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 education:
 - area: Pursuing a B.S. in Ecology, Evolution, & Behavior
-  button: leaf
+  button: 
     text: EEB Department
     url: https://cbs.umn.edu/eeb
   date_end: 
