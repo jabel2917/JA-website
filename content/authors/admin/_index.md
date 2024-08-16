@@ -26,7 +26,7 @@ awards:
   title: Object-Oriented Programming in R
   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 education:
-- area: Pursuing a B.S. in Ecology, Evolution, & Behavior and a Minor in Marine Biology
+- area: Pursuing a B.S. in Ecology, Evolution, & Behavior
   button: 
     text: EEB Department
     url: https://cbs.umn.edu/eeb
@@ -34,6 +34,8 @@ education:
   date_start: "2022-09-06"
   institution: University of Minnesota Twin Cities
   summary: |
+Minor in Marine Biology
+
     Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by Dr. Gretchen Hansen. Planning to present at Minnesota AFS Conference in 2/25.
 - area: MEng Artificial Intelligence
   date_end: "2020-12-31"
