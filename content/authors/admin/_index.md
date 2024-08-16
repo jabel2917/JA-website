@@ -35,14 +35,17 @@ education:
   institution: University of Minnesota Twin Cities
   summary: |
     Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by Dr. Gretchen Hansen. Planning to present at Minnesota AFS Conference in 2/25.
-- area: High School Diploma
-  date_end: "2022-5-22"
-  date_start: "2018-08-26"
-  institution: Liberty High School
+- area: MEng Artificial Intelligence
+  date_end: "2020-12-31"
+  date_start: "2016-01-01"
+  institution: Massachusetts Institute of Technology
   summary: |
-    GPA: 4.41
-    Graduated summa cum laude May 2022
+    GPA: 3.8/4.0
 
+    Courses included:
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 - area: BSc Artificial Intelligence
   date_end: "2020-12-31"
   date_start: "2016-01-01"
