@@ -26,13 +26,13 @@ awards:
   title: Object-Oriented Programming in R
   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 education:
-- area: Pursuing B.S. in Ecology, Evolution, & Behavior
+- area: Pursuing a B.S. in Ecology, Evolution, & Behavior
   button:
-    text: Read Thesis
-    url: https://example.com
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Stanford University
+    text:
+    url: https://cbs.umn.edu/eeb
+  date_end: 
+  date_start: "2022-09-06"
+  institution: University of Minnesota Twin Cities
   summary: |
     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 - area: MEng Artificial Intelligence
