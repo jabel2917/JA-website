@@ -34,8 +34,9 @@ education:
   date_start: "2022-09-06"
   institution: University of Minnesota Twin Cities
   summary: |
-Minor in Marine Biology
 
+    Minor in Marine Biology
+    
     Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by Dr. Gretchen Hansen. Planning to present at Minnesota AFS Conference in 2/25.
 - area: MEng Artificial Intelligence
   date_end: "2020-12-31"
