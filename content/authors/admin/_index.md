@@ -43,10 +43,12 @@ education:
   date_start: "2018-08-26"
   institution: Liberty High School
   summary: |
-   
     GPA: 4.41
 
-    Graduated summa cum laude
+    Courses included:
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 - area: BSc Artificial Intelligence
   date_end: "2020-12-31"
   date_start: "2016-01-01"
