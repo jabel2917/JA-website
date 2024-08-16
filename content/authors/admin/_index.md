@@ -34,7 +34,7 @@ education:
   date_start: "2022-09-06"
   institution: University of Minnesota Twin Cities
   summary: |
-    Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by [Dr. Gretchen Hansen](https://example.com). Planning to present at Minnesota AFS Conference in 2/25.
+    Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by Dr. Gretchen Hansen. Planning to present at Minnesota AFS Conference in 2/25.
 - area: MEng Artificial Intelligence
   date_end: "2020-12-31"
   date_start: "2016-01-01"
