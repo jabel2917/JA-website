@@ -38,17 +38,14 @@ education:
     Minor in Marine Biology
     
     Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by Dr. Gretchen Hansen. Planning to present at Minnesota AFS Conference in 2/25.
-- area: MEng Artificial Intelligence
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
+- area: High School Diploma
+  date_end: "2022-5-22"
+  date_start: "2018-08-26"
+  institution: Liberty High School
   summary: |
-    GPA: 3.8/4.0
+    GPA: 4.41
 
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    Graduated summa cum laude
 - area: BSc Artificial Intelligence
   date_end: "2020-12-31"
   date_start: "2016-01-01"
