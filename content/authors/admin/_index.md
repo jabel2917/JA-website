@@ -48,16 +48,6 @@ education:
     - GPA: 4.41/4.0
 
     - Graduated summa cum laude
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
-  summary: |
-    GPA: 3.4/4.0
-
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 first_name: Shiung Wu
 highlight_name: true
 interests:
