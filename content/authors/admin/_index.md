@@ -35,21 +35,19 @@ education:
   institution: University of Minnesota Twin Cities
   summary: |
 
-    Minor in Marine Biology
+    - Minor in Marine Biology
     
-    Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by Dr. Gretchen Hansen. Planning to present at Minnesota AFS Conference in 2/25.
+    - University Honors Program
+    
+    - Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by Dr. Gretchen Hansen. Planning to present at Minnesota AFS Conference in 2/25.
 - area: High School Diploma
   date_end: "2022-05-22"
   date_start: "2018-08-26"
   institution: Liberty High School
   summary: |
-    GPA: 3.8/4.0
+    - GPA: 4.41/4.0
 
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-- area: BSc Artificial Intelligence
+    - Graduated summa cum laude
   date_end: "2020-12-31"
   date_start: "2016-01-01"
   institution: Massachusetts Institute of Technology
