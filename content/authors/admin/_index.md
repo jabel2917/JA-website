@@ -39,8 +39,8 @@ education:
     
     Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by Dr. Gretchen Hansen. Planning to present at Minnesota AFS Conference in 2/25.
 - area: High School Diploma
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
+  date_end: "2022-5-22"
+  date_start: "2018-08-026"
   institution: Liberty High School
   summary: |
     GPA: 3.8/4.0
