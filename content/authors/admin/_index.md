@@ -47,33 +47,25 @@ education:
   summary: |
     - GPA: 4.41/4.0
     - Graduated summa cum laude
-first_name: Shiung Wu
+first_name: Jack
 highlight_name: true
 interests:
-- Fish
-- Fish related things 
-- Option 3
-last_name: Chien
+- Fish population behaviors
+- Aquatic ecosystem dynamics
+- Climate change
+last_name: Abel
 organizations:
 - name: University of Minnesota Twin Cities 
   url: https://twin-cities.umn.edu/
 profiles:
 - icon: at-symbol
   label: E-mail Me
-  url: mailto:your-email@example.com
-- icon: brands/x
-  url: https://twitter.com/GetResearchDev
-- icon: brands/instagram
-  url: https://www.instagram.com/
+  url: mailto:abel0124@umn.edu
 - icon: brands/github
-  url: https://github.com/gcushen
-- icon: brands/linkedin
-  url: https://www.linkedin.com/
-- icon: academicons/google-scholar
-  url: https://scholar.google.com/
-- icon: academicons/orcid
-  url: https://orcid.org/
-role: Chief Scientist
+  url: https://github.com/jabel2917
+- icon: brands/instagram
+  url: https://www.instagram.com/jack.abe_03?igsh=NWFjeHV4amh1OWhu&utm_source=qr
+role: Undergradute Student
 skills:
 - items:
   - description: ""
