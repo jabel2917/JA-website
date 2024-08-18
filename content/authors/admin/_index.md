@@ -34,11 +34,8 @@ education:
   date_start: "2022-09-06"
   institution: University of Minnesota Twin Cities
   summary: |
-
     - Minor in Marine Biology
-    
     - University Honors Program
-    
     - Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by Dr. Gretchen Hansen. Planning to present at Minnesota AFS Conference in 2/25.
 - area: High School Diploma
   date_end: "2022-05-22"
@@ -46,7 +43,6 @@ education:
   institution: Liberty High School
   summary: |
     - GPA: 4.41/4.0
-
     - Graduated summa cum laude
 first_name: Shiung Wu
 highlight_name: true
