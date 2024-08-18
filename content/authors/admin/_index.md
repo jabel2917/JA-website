@@ -41,7 +41,7 @@ education:
 - area: High School Diploma
   date_end: "2020-12-31"
   date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
+  institution: Liberty High School
   summary: |
     GPA: 3.8/4.0
 
