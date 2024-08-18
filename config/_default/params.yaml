@@ -6,8 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
-  theme: ocean
+  color: orange
 
 # SEO
 marketing:
