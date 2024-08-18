@@ -65,7 +65,7 @@ profiles:
   url: https://github.com/jabel2917
 - icon: brands/instagram
   url: https://www.instagram.com/jack.abe_03?igsh=NWFjeHV4amh1OWhu&utm_source=qr
-role: Undergradute Student
+role: Undergraduate Student
 skills:
 - items:
   - description: ""
