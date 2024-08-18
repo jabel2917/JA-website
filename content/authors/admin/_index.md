@@ -30,6 +30,9 @@ education:
   button: 
     text: EEB Department
     url: https://cbs.umn.edu/eeb
+  button: 
+    text: Hansen Lab Website
+    url: https://gretchenhansen.squarespace.com/  
   date_end: 
   date_start: "2022-09-06"
   institution: University of Minnesota Twin Cities
