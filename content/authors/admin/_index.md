@@ -38,7 +38,7 @@ education:
     Minor in Marine Biology
     
     Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by Dr. Gretchen Hansen. Planning to present at Minnesota AFS Conference in 2/25.
-- area: MEng Artificial Intelligence
+- area: High School Diploma
   date_end: "2020-12-31"
   date_start: "2016-01-01"
   institution: Massachusetts Institute of Technology
