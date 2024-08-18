@@ -28,9 +28,6 @@ awards:
 education:
 - area: Pursuing a B.S. in Ecology, Evolution, & Behavior
   button: 
-    text: EEB Department
-    url: https://cbs.umn.edu/eeb
-  button: 
     text: Hansen Lab Website
     url: https://gretchenhansen.squarespace.com/  
   date_end: 
@@ -41,6 +38,9 @@ education:
     - University Honors Program
     - Honors thesis on _Minnesota Lake Classification System Based on Fish Assemblages_. Supervised by Dr. Gretchen Hansen. Planning to present at Minnesota AFS Conference in 2/25.
 - area: High School Diploma
+  button: 
+    text: Liberty High School
+    url: https://liberty.iowacityschools.org/about-liberty/about-liberty
   date_end: "2022-05-22"
   date_start: "2018-08-26"
   institution: Liberty High School
