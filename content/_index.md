@@ -29,7 +29,7 @@ sections:
       moonshots.\n\nI apply a range of qualitative and quantitative methods to comprehensively
       investigate the role of science and technology in the economy.\n\nPlease reach
       out to collaborate \U0001F603"
-    title: "\U0001F4DA My Research"
+    title: "\U0001F41F My Research Interests \U0001F41F"
   design:
     columns: "1"
 - block: collection
