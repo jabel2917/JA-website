@@ -28,7 +28,7 @@ sections:
     title: "\U0001F41F My Research Interests \U0001F41F"
   design:
     columns: "1"
-- block: collection
+#- block: collection
   content:
     filters:
       featured_only: true
