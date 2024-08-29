@@ -128,4 +128,4 @@ work:
 
 ## About Me
 
-Hello! My Name is Jack, and I'm testing to see if I can update this website correctly on my own.
+Hello! My name is Jack, and I’m a third-year undergraduate student at the University of Minnesota Twin Cities, majoring in Ecology, Evolution, and Behavior, with a minor in Marine Biology. In addition to being a marathon runner, amateur nature photographer, and scuba diver, I am extremely passionate about aquatic ecological research. I firmly believe in pursuing one's passion and hope to someday inspire future scientists with my own passion for research!
