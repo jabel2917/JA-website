@@ -28,7 +28,7 @@ sections:
     title: "\U0001F41F My Research Interests \U0001F41F"
   design:
     columns: "1"
-#- block: collection
+- block: collection
   content:
     filters:
       featured_only: true
@@ -39,7 +39,7 @@ sections:
     columns: 2
     view: article-grid
   id: papers
-- block: collection
+#- block: collection
   content:
     filters:
       exclude_featured: false
