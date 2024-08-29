@@ -49,7 +49,7 @@ sections:
     title: Recent Publications
   design:
     view: citation
-- block: collection
+#- block: collection
   content:
     filters:
       folders:
@@ -59,7 +59,7 @@ sections:
     columns: 1
     view: article-grid
   id: talks
-- block: collection
+#- block: collection
   content:
     count: 5
     filters:
