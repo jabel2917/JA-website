@@ -24,7 +24,7 @@ sections:
 - block: markdown
   content:
     subtitle: ""
-    text: "I like fish."
+    text: "I am fascinated by aquatic ecosystems and how global and local processes influence those ecosystems. In particular, I am interested in fish population behaviors and dynamics in the face of climate change. The aspect of directly interacting with nature and physically collecting data is what draws me to this field."
     title: "\U0001F41F My Research Interests \U0001F41F"
   design:
     columns: "1"
